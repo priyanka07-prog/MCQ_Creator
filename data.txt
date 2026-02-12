@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) is a field of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence, such as reasoning, learning, and decision-making. Machine Learning (ML) is a subset of AI that allows systems to learn automatically from data without being explicitly programmed.
+
+The idea of intelligent machines was first introduced in 1950 by Alan Turing, who asked the famous question, “Can machines think?” He also proposed the Turing Test to measure a machine’s ability to exhibit human-like intelligence. In 1956, the term “Artificial Intelligence” was officially coined by John McCarthy during the Dartmouth Conference, marking the birth of AI as an academic field.
+
+During the 1960s and 1970s, early AI systems showed promise by solving mathematical problems and playing simple games. However, due to limited computing power and insufficient data, progress slowed down, leading to a period known as the “AI Winter,” where funding and interest in AI research declined.
+
+In the 1980s, AI regained attention with the development of expert systems, which used predefined rules to make decisions in areas such as medicine and finance. Despite their success, these systems were difficult to scale and maintain.
+
+A major breakthrough occurred in 1997 when IBM’s Deep Blue defeated world chess champion Garry Kasparov, proving that machines could outperform humans in specific intellectual tasks. In the early 2000s, the focus shifted from rule-based systems to data-driven approaches, leading to the growth of Machine Learning algorithms such as decision trees, support vector machines, and regression models.
+
+The year 2012 marked the beginning of the deep learning revolution, when neural networks achieved outstanding results in image recognition tasks. This success was driven by the availability of large datasets and powerful GPUs. In 2016, AlphaGo defeated the world champion in the game of Go, a milestone that demonstrated the power of reinforcement learning and deep neural networks.
